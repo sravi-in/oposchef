@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://0.0.0.0:4000/starch/2017/07/20/kesar-pulav/</loc>
+<lastmod>2017-07-20T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/dessert/2017/07/20/qubani-ka-meetha/</loc>
+<lastmod>2017-07-20T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/curry/2017/07/20/saksuka/</loc>
+<lastmod>2017-07-20T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/about/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/contact-success/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/contact/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/recipes/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/videos/</loc>
+</url>
+</urlset>
